@@ -1,6 +1,4 @@
-
-
-"""<div align="center">
+<div align="center">
   <img src="https://i.imgflip.com/avgsio.gif" alt="Demo GIF" width="900" />
 </div>
 
