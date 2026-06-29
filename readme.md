@@ -1,4 +1,4 @@
-from pathlib import Path
+
 
 content = """<div align="center">
   <img src="https://i.imgflip.com/avgsio.gif" alt="Demo GIF" width="900" />
