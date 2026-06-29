@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/1c11e07c-9d90-4add-911d-2bc5da5c168c
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="https://github.com/user-attachments/assets/1c11e07c-9d90-4add-911d-2bc5da5c168c"  />
 </div>
