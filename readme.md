@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgflip.com/avgsio.gif" alt="Demo GIF" width="900" />
+  <img src="https://i.imgflip.com/avgsio.gif" alt="Demo GIF" width="90" />
 </div>
 
 <div data-importer="image" align="center">
