@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgflip.com/avgsio.gif" alt="Demo GIF" width="90" />
+  <img src="https://i.imgflip.com/avgsio.gif" alt="Demo GIF" width="500" />
 </div>
 
 <div data-importer="image" align="center">
@@ -40,7 +40,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
 </div>
-"""
-path="/mnt/data/README.md"
-Path(path).write_text(content,encoding="utf-8")
-print(path)
